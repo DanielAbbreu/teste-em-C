@@ -169,7 +169,8 @@
 int main(){
 
 
-
+    //modificacao feita:
+    int num = 10;
 
 
     return 0;
